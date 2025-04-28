@@ -21,27 +21,28 @@ The Airbnb Clone Project (Frontend) is a web application focused on creating a u
 - **Vite**: A fast build tool and development server for optimizing the frontend development workflow.
 
 ## UI/UX Design Planning
-The UI/UX design for the Airbnb Clone Project aims to deliver an intuitive, visually appealing, and accessible booking experience. The design prioritizes simplicity, responsiveness, and user engagement to ensure seamless navigation and interaction.
+The UI/UX design for the Airbnb Clone Project is planned to create a seamless, intuitive, and engaging booking experience that mirrors Airbnb’s user-centric approach. The design process focuses on aligning visual aesthetics with functional usability to meet user needs across diverse devices and contexts.
 
 **Design Goals**:
-- Create a clean, modern interface that mirrors Airbnb’s aesthetic.
-- Ensure responsive layouts for mobile, tablet, and desktop devices.
-- Enhance accessibility with clear typography, color contrast, and keyboard navigation.
-- Streamline user flows for browsing properties, viewing details, and booking.
+- **Simplicity**: Develop clean, uncluttered layouts to make navigation effortless and reduce user confusion.
+- **Responsiveness**: Ensure the interface adapts seamlessly to mobile, tablet, and desktop screens for broad accessibility.
+- **Accessibility**: Incorporate high-contrast colors, readable typography, and keyboard navigation to support all users, including those with disabilities.
+- **Engagement**: Use visually appealing elements (e.g., high-quality images, smooth transitions) to captivate users and encourage interaction.
+- **Efficiency**: Streamline key user flows (e.g., searching properties, booking) to minimize steps and enhance satisfaction.
 
-**Key Features**:
-- **Property Listing View**: Displays a grid of properties with key details (e.g., image, title, price).
-- **Listing Detailed View**: Shows in-depth property information, including images, descriptions, and reviews.
-- **Simple Checkout View**: Provides a straightforward form for users to confirm bookings and enter payment details.
+**Key Features to Implement**:
+- Property browsing with filters for location, dates, and amenities to help users find suitable rentals.
+- Detailed property views with comprehensive information to inform booking decisions.
+- Simplified checkout process to facilitate quick and secure reservations.
 
 **Primary Pages**:
 | Page | Description | Key Elements |
 |------|-------------|--------------|
-| Property Listing View | A grid or list of available properties for users to browse. | Property cards with images, titles, prices, and ratings; filters for location, dates, and amenities. |
-| Listing Detailed View | A detailed page for a single property, showcasing all relevant information. | Hero image, description, host details, amenities list, review section, and booking button. |
-| Simple Checkout View | A form for users to finalize their booking and payment. | Date picker, guest selector, payment form, price breakdown, and confirm button. |
+| Property Listing View | A dynamic page displaying a grid of available properties for users to explore. | Property cards (image, title, price, rating), search bar, filters (location, dates, amenities), pagination for additional listings. |
+| Listing Detailed View | A comprehensive page providing all details about a selected property. | Hero image carousel, property description, host profile, amenities list, guest reviews, availability calendar, booking button. |
+| Simple Checkout View | A streamlined page for users to confirm their booking and complete payment. | Booking summary (dates, guests, price), payment form (card details), guest information input, confirmation button, price breakdown. |
 
-**Importance of User-Friendly Design**: A user-friendly design is critical for a booking system to ensure users can easily navigate, find properties, and complete bookings without frustration. Intuitive layouts, clear calls-to-action, and responsive designs build trust, increase engagement, and reduce user drop-off, directly impacting the platform’s success.
+**Importance of User-Friendly Design**: A user-friendly design is essential for a booking system to ensure users can effortlessly navigate the platform, locate desired properties, and complete bookings without obstacles. Clear layouts, intuitive interactions, and responsive interfaces build user trust, reduce abandonment rates, and enhance the platform’s reputation, directly contributing to its success in a competitive market.
 
 **Design Properties (Figma)**:
 The Figma mockup defines the visual style to ensure consistency across the interface.
