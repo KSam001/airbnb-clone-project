@@ -16,3 +16,9 @@ The Airbnb Clone Project is a full-stack web application designed to replicate t
 - **Database**: MySQL (relational database for storing user and booking data)
 - **API**: GraphQL (query language for efficient and flexible API development)
 - **DevOps**: Docker (containerization for consistent development environments), GitHub Actions (automated CI/CD pipelines)
+
+## Team Roles
+- **Backend Developer**: Develops the server-side application using Django, implementing business logic for features like booking and user management.
+- **Database Administrator**: Designs and manages the MySQL database schema, ensuring data integrity and efficient query performance.
+- **API Developer**: Builds secure GraphQL APIs to enable communication between the frontend and backend, focusing on authentication and data security.
+- **DevOps Engineer**: Configures Docker for consistent development environments and sets up GitHub Actions for automated CI/CD pipelines.
